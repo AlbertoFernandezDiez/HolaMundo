@@ -43,9 +43,8 @@ public class AlumnoTest {
 		assertEquals("Agapito",a.getNombre());
 	}
 
-	@Ignore
+	@Test
 	public void testIsMayorEdad() {
-		fail("Not yet implemented");
 		Alumno a = new Alumno();
 		assertFalse(a.getEdad() >= 18);
 		
