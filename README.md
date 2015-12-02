@@ -1,2 +1,3 @@
 # HolaMundo
-Repositorio creado para el curso Desarrollo de Aplicaciones Web (Ipartek) - Primer proyecto en Java para aprender POO
+###Primer proyecto en Java para aprender POO
+Repositorio creado para el curso Desarrollo de Aplicaciones Web (Ipartek)
